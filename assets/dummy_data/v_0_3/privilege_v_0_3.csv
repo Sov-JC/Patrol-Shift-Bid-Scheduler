@@ -1,0 +1,5 @@
+privilegeID,name
+1,root
+2,admin
+3,supervisor
+4,user

@@ -1,0 +1,13 @@
+subCategoryID,title,countsTowardStaffing,bidScheduleID,isDeleted
+1,Seargent,FALSE,3,FALSE
+2,CSI,TRUE,3,FALSE
+3,Motorman,TRUE,3,FALSE
+4,Patrol Officer,TRUE,3,FALSE
+5,SRO,FALSE,3,FALSE
+6,CSA,FALSE,3,FALSE
+7,Seargent,FALSE,2,FALSE
+8,CSI,TRUE,2,FALSE
+9,Motorman,TRUE,2,FALSE
+10,Patrol Officer,TRUE,2,FALSE
+11,SRO,FALSE,2,FALSE
+12,CSA,FALSE,2,FALSE

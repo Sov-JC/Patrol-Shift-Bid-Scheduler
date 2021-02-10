@@ -1,0 +1,4 @@
+bidScheduleStateID,name,description
+1,justCreated,The bid schedule has just been created. It must now be filled with subcategories~ users~ etc.
+2,open,The bid schedule has received all the information it needs. It is now accepting user bids.
+3,closed,The bid schedule has been closed by an admin~ supervisor~ or root. The bid schedule cannot be reopened and subcategories in this bid schedule cannot be deleted.

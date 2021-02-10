@@ -1,0 +1,13 @@
+scheduleVehicleID,bidScheduleID,make,model,year,vehicleNumber
+1,1,Ford,Explorer,2016,3340
+2,1,Ford,Explorer,2014,2399
+3,1,Dodge,Charger,2015,2118
+4,1,Chevrolet,Suburban,2014,1199
+5,1,Ford,Crown Victoria,2007,847
+6,1,Chevrolet,Impala,2009,8891
+7,2,Ford,Explorer,2016,3340
+8,2,Ford,Explorer,2014,2399
+9,2,Dodge,Charger,2015,2118
+10,2,Chevrolet,Suburban,2014,1199
+11,2,Ford,Crown Victoria,2007,847
+12,2,Chevrolet,Impala,2009,8891

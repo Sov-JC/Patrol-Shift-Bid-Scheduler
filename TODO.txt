@@ -1,0 +1,16 @@
+1) [done] Insert dummy data into the subcategory_bid_order table
+2) [doneish] make MY_date_helper function comments easier to read
+3) [done] Dummy data on user table, user "Julian Acosta" needs a new hire_date
+4) time_slot table: convert all 0s into "NULL" text.
+5) allow time_slot userID key to be NULL
+6) create a base case for the dummy_data interpreter for the string "NULL"
+7) fix time slot table with bid schedule = 3 (there are 2 bid slots referencing user with user id 2)
+    because unique key (of 2 attributes) wasn't added to the table yet.
+8) create a bid status table because of this scenario:
+    a user has not voted given the amount of time that he had... causes infinite loop if administrators
+    don't deal with it.
+9) time_slot table should allow for NULL times. These NULL values represent implied times by the shift they belong to.
+10) 
+11) convert v0.5 of time_slot table's userIDs from 0 to NULL
+12) remove utn_join_users, along with other queries, and compile them into a view instead
+    for view_my_open_schedule controller.
