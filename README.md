@@ -65,7 +65,7 @@ The purpose of the new system is mainly to relieve the tedium involved with the 
 <details>
 	<summary> Email Notification </summary>
 
-![alt text](/demo/email-notification.PNG)
+![alt text](/demo/email-notification.png)
 </details>
 
 
