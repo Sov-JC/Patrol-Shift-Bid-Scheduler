@@ -1,7 +1,7 @@
 # Patrol Shift Bid Scheduler
 
 ## About
-Patrol Shift Bid Scheduler is a web application designed to aid in scheduling patrol officers using a seniority-based bidding system. At a basic level, it allows administrators to create scheduling periods (known internally as “bids”, “bid periods”, or some variant thereof). Users will then receive an email notification letting them know when it is their turn to bid for their desired time slot on the schedule. The application was created for Pinecrest Police Department by my teammate Otto-Gonzalez and I for our senior project at FIU. This service was created as part of a wide effort within the department to transition to electronic methods of performing their operations.
+Patrol Shift Bid Scheduler is a web application designed to aid in scheduling patrol officers using a seniority-based bidding system. At a basic level, it allows administrators to create scheduling periods (known internally as “bids”, “bid periods”, or some variant thereof). Users will then receive an email notification indicating when it is their turn to bid for their desired time slot on the schedule. The application was created for the Pinecrest Police Department by my teammate Otto-Gonzalez and me for our senior project at FIU. This service was created as part of a wide effort within the department to transition to electronic means of performing their operations.
 
 ### Current System
 Currently, many police departments handle scheduling manually using paper and spreadsheets. Bidding is done on paper using forms given out to the officers when it is their turn. After the forms are collected it is input into an Excel spreadsheet to ensure that each shift is meeting minimum staffing requirements. The resulting schedules for each shift are then printed into three ring binders, and any amendments are made using white-out and pen.
@@ -25,47 +25,47 @@ The purpose of the new system is mainly to relieve the tedium involved with the 
 <details>
 	<summary> Bid Schedule Setup</summary>
 
-![alt text](/demo/bid-schedule-setup.png)
+![alt text](/demo/bid-schedule-setup.PNG)
 </details>
 
 <details>
 	<summary> User Manager</summary>
 
-![alt text](/demo/user-manager-1.png)
-![alt text](/demo/user-manager-2.png)
-![alt text](/demo/user-manager-3.png)
+![alt text](/demo/user-manager-1.PNG)
+![alt text](/demo/user-manager-2.PNG)
+![alt text](/demo/user-manager-3.PNG)
 </details>
 
 <details>
 	<summary> Open Schedule Overview</summary>
 
-![alt text](/demo/open-schedule-overview.png)
+![alt text](/demo/open-schedule-overview.PNG)
 </details>
 
 <details>
 	<summary> Schedule Creator </summary>
 
-![alt text](/demo/create-schedule.png)
+![alt text](/demo/create-schedule.PNG)
 </details>
 
 <details>
 	<summary> Schedule Management</summary>
 
-![alt text](/demo/schedule-management.png)
+![alt text](/demo/schedule-management.PNG)
 </details>
 
 <details>
 	<summary> Subcategory Assignment</summary>
 
-![alt text](/demo/subcategory-assignment-1.png)
-![alt text](/demo/subcategory-assignment-2.png)
-![alt text](/demo/subcategory-assignment-3.png)
+![alt text](/demo/subcategory-assignment-1.PNG)
+![alt text](/demo/subcategory-assignment-2.PNG)
+![alt text](/demo/subcategory-assignment-3.PNG)
 </details>
 
 <details>
 	<summary> Email Notification </summary>
 
-![alt text](/demo/email-notification.png)
+![alt text](/demo/email-notification.PNG)
 </details>
 
 
@@ -73,19 +73,19 @@ The purpose of the new system is mainly to relieve the tedium involved with the 
 <details>
 	<summary> Manage Bid Order</summary>
 
-![alt text](/demo/manage-bid-order.png)
+![alt text](/demo/manage-bid-order.PNG)
 </details>
 
 <details>
 	<summary> Login Portal</summary>
 
-![alt text](/demo/login-portal.png)
+![alt text](/demo/login-portal.PNG)
 </details>
 
 <details>
 	<summary> Admin Page </summary>
 
-![alt text](/demo/admin-page.png)
+![alt text](/demo/admin-page.PNG)
 </details>
 
 
